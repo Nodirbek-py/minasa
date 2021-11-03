@@ -3,10 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
+body {
     font-family: 'Courier New', Courier, monospace;
-    background: #333;
+    background-color: #F9F9F9;
 }
-a{
+a {
     text-decoration: none;
+    text-transform: capitalize;
+    font-weight: 600;
 }
+
+/* color: rgb(55, 125, 255); #377DFF  */
